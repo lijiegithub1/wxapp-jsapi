@@ -1,4 +1,4 @@
 //app.js
 App({
-    lijie e
+    lijie eq
 })
